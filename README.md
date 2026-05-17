@@ -1,27 +1,25 @@
-# Excel Sales Data Analysis
+# AI Resume Analyzer
 
 ## About the Project
-Analyzed a 10,000+ row Kaggle Superstore sales dataset to surface 
-meaningful business insights using Microsoft Excel.
+A frontend web application that allows users to upload their resume 
+and receive job role suggestions based on skill-matching percentages.
 
-## What I Did
-- Cleaned and organized raw sales data
-- Built Pivot Tables for regional and category-level analysis
-- Used VLOOKUP for data cross-referencing
-- Created charts to visualize sales trends
-- Identified top performing regions and product categories
+## Features
+- Upload resume and get instant job role suggestions
+- Skill matching percentage display
+- User authentication
+- Clean result visualization
 
-## Tools Used
-- Microsoft Excel
-- Kaggle Superstore Dataset
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Key Insights Found
-- Regional performance comparison
-- Category-wise sales trends
-- Data-driven business recommendations
-
-## Files in this Repository
-- sales_analysis.xlsx — Main Excel file with all analysis
+## How to Run
+1. Download or clone this repository
+2. Open index.html in your browser
+3. Upload a resume file
+4. View the job role suggestions
 
 ## Project Status
 Completed
